@@ -6,10 +6,10 @@ Dataset taken from Kaggle (https://www.kaggle.com/iarunava/cell-images-for-detec
 
 
 Under the 'Training' folder, one file has a model created using CNN, and the second one has a model created using Transfer learning VGG19 Model.
-The file 'Models' contain the .h5 model file created using the CNN model. The model for VGG19 was too large to upload. 
+The folder 'Models' contain the .h5 model file created using the CNN model. The model for VGG19 was too large to upload. 
 The model was deployed using Flask. 
 
 
 
 
-Run the app.py file to initiate the model deployment in the web browser. 
+### Run the app.py file to initiate the model deployment in the web browser. 
