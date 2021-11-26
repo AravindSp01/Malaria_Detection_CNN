@@ -1,5 +1,5 @@
 # Malaria_Detection_CNN
-Detection of Malaria Infected Disease cells using cell images.
+Detection of Malaria Infected Disease cells using cell images, deployed using Flask.
 
 
 Dataset taken from Kaggle (https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria). Since I'm training the model on my personal laptop, I was only able to train the model with 3000 images from each of the Parasite & Uninfected classes.
